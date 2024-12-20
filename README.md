@@ -1,0 +1,2 @@
+# TrenningCsharp
+HomeWork
